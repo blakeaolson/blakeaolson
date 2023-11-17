@@ -26,7 +26,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Swift, React, Tensorflow, Nodejs, SQL**
+- 🔭 I’m currently working on learning **Swift, Tensorflow, Pytorch, SQL**
 
 - 🌱 Most recently deployed fantasy football rankings website to FFrankings.ai **
 <!--Intro end-->
