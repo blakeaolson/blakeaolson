@@ -20,8 +20,6 @@
 
 <!--Intro start-->
 - 🔭 I’m currently working on learning **Deep Learning, Transformers, Language Models**
-
-- 🌱 Most recently deployed fantasy football rankings website to FFrankings.ai **
 <!--Intro end-->
 
 <!--h1 without bottom border-->
