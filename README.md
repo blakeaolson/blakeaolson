@@ -19,7 +19,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on learning **Deep Learning, Transformers, Language Models**
+- 🔭 I’m currently working on learning **Deep Learning, Language Models, Inference-Time Reasoning Techniques**
 <!--Intro end-->
 
 <!--h1 without bottom border-->
